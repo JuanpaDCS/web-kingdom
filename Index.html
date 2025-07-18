@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KingDom Of WisDom - Aprende sobre Bases de Datos</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/styles.css">
+
+</head>
+<body class="bg-gray-900 text-gray-200">
+
+    <header class="bg-gray-900/80 backdrop-blur-sm sticky top-0 z-50 border-b border-gray-700">
+        <nav class="container mx-auto px-4 lg:px-6 py-3 flex justify-between items-center">
+            <div class="flex items-center">
+                <img src="./img/logoDOM.webp" alt="logoDOM" class="w-30 h-20">
+            </div>
+            <div class="hidden md:flex items-center space-x-8 text-lg">
+                <a href="#" class="text-gray-300 hover:text-white transition-colors">Inicio</a>
+                <a href="#cuestionario" class="text-gray-300 hover:text-white transition-colors">Cuestionario</a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container mx-auto px-4 lg:px-6 py-12 md:py-16">
+
+        <section class="text-center mb-16">
+            <h1 class="text-5xl md:text-6xl font-bold text-white mb-4">¡Aprende Jugando con Bases de Datos!</h1>
+            <p class="text-xl md:text-2xl text-gray-400 max-w-3xl mx-auto">
+                Interactúa con los conceptos clave y descubre por qué las bases de datos son tan importantes.
+            </p>
+        </section>
+
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+
+            <!-- Módulo 1 -->
+            <div class="interactive-module">
+                <h3 class="text-2xl font-bold text-white mb-1 text-center">1. ¿Qué son los Datos?</h3>
+                <p class="text-center text-gray-400 mb-4">Arrastra los datos sueltos a la procesadora para crear información.</p>
+                <div class="flex flex-col md:flex-row gap-4 items-center justify-around">
+                    <div id="data-pieces-container" class="flex flex-wrap gap-3 justify-center">
+                        <div class="data-piece bg-indigo-500 text-white p-3 rounded-lg shadow-lg" draggable="true" data-piece="1">"María"</div>
+                        <div class="data-piece bg-pink-500 text-white p-3 rounded-lg shadow-lg" draggable="true" data-piece="2">"25"</div>
+                        <div class="data-piece bg-sky-500 text-white p-3 rounded-lg shadow-lg" draggable="true" data-piece="3">"Madrid"</div>
+                    </div>
+                    <div class="text-4xl text-gray-500 animate-pulse">→</div>
+                    <div id="data-drop-zone" class="drop-zone w-48 h-32 rounded-lg flex items-center justify-center text-center p-4">
+                        <span class="text-gray-500">Arrastra aquí</span>
+                    </div>
+                </div>
+                <div class="mt-4 min-h-[100px] flex items-center justify-center">
+                    <div id="info-card-result" class="info-card bg-gray-700 p-4 rounded-lg w-full md:w-3/4">
+                        <h4 class="font-bold text-white">Información Procesada:</h4>
+                        <p class="text-gray-300"><strong class="text-indigo-300">Nombre:</strong> María</p>
+                        <p class="text-gray-300"><strong class="text-pink-300">Edad:</strong> 25</p>
+                        <p class="text-gray-300"><strong class="text-sky-300">Ciudad:</strong> Madrid</p>
+                    </div>
+                </div>
+            </div>
