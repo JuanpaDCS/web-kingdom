@@ -1,0 +1,78 @@
+/* Estilos para página index */
+
+body {
+    font-family: 'Itim', cursive;
+    background-color: #111827;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Estilos para los módulos interactivos */
+.interactive-module {
+    background-color: #1f2937;
+    border: 1px solid #374151;
+    border-radius: 0.75rem;
+    padding: 1.5rem;
+    transition: all 0.3s ease;
+}
+
+/* Estilos para arrastrar y soltar */
+.data-piece {
+    cursor: grab;
+    transition: transform 0.2s ease;
+}
+
+.data-piece:active {
+    cursor: grabbing;
+    transform: scale(1.1);
+    z-index: 10;
+}
+
+.drop-zone {
+    border: 2px dashed #4b5563;
+    transition: background-color 0.3s ease;
+}
+
+.drop-zone.hovered {
+    background-color: #374151;
+    border-color: #6b7280;
+}
+
+.info-card {
+    transform: scale(0.9);
+    opacity: 0;
+    transition: transform 0.4s ease, opacity 0.4s ease;
+}
+
+.info-card.visible {
+    transform: scale(1);
+    opacity: 1;
+}
+
+/* Estilos para la tabla interactiva */
+.interactive-table th,
+.interactive-table td {
+    transition: background-color 0.3s ease;
+}
+
+.highlight-row {
+    background-color: #3b82f6 !important;
+    color: #ffffff;
+}
+
+.highlight-col {
+    background-color: #10b981 !important;
+    color: #ffffff;
+}
+
+/* Estilos para el diagrama ERD */
+#relation-line {
+    height: 2px;
+    background-color: #a5b4fc;
+    transition: width 0.5s ease-in-out;
+    width: 0;
+}
+
+#relation-line.visible {
+    width: 100%;
+}
