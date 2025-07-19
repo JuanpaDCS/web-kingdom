@@ -77,13 +77,11 @@ No se requiere una instalación compleja. Al ser un proyecto web estático, solo
     
     ```
     
-2.  **Link de gitpage:**
     
-    ```
- [**Ver Video en Pagina**](https://juanpadcs.github.io/web-kingdom/ "null")
+2. [**Ver Video en Pagina**](https://juanpadcs.github.io/web-kingdom/ "null")
     
         
-    ```
+   
     
 3.  **Abre el archivo `index.html` en tu navegador web preferido.**
     
