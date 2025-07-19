@@ -80,13 +80,13 @@ No se requiere una instalación compleja. Al ser un proyecto web estático, solo
 2.  **Link de gitpage:**
     
     ```
-    Click aqui https://juanpadcs.github.io/web-kingdom/
+ [**Ver Video en Pagina**](https://juanpadcs.github.io/web-kingdom/ "null")
     
-    
+        
     ```
     
 3.  **Abre el archivo `index.html` en tu navegador web preferido.**
-
+    
 ### Metodología SCRUM
 
 Para la gestión de este proyecto, utilizamos la metodología ágil SCRUM, organizando nuestro trabajo en Sprints y gestionando las tareas en un tablero de proyecto.
