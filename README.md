@@ -77,10 +77,10 @@ No se requiere una instalación compleja. Al ser un proyecto web estático, solo
     
     ```
     
-2.  **Navega a la carpeta del proyecto:**
+2.  **Link de gitpage:**
     
     ```
-    cd Pagina-Web-kingdom
+    Click aqui https://juanpadcs.github.io/web-kingdom/
     
     
     ```
