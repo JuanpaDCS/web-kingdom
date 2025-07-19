@@ -1,3 +1,5 @@
+[**Ver Video en Pagina**](https://juanpadcs.github.io/web-kingdom/ "null")
+
 # 👑 KingDom Of WisDom: Aprendizaje Interactivo de Bases de Datos
 
 **KingDom Of WisDom** es un recurso educativo interactivo diseñado para enseñar los fundamentos de las bases de datos de una manera clara, creativa y comprensible. A través de módulos interactivos y un quiz dinámico, los usuarios pueden aprender y poner a prueba sus conocimientos en un entorno amigable y atractivo.
@@ -77,14 +79,16 @@ No se requiere una instalación compleja. Al ser un proyecto web estático, solo
     
     ```
     
+2.  **Navega a la carpeta del proyecto:**
     
-2. [**Ver Video en Pagina**](https://juanpadcs.github.io/web-kingdom/ "null")
+    ```
+    cd Pagina-Web-kingdom
     
-        
-   
+    
+    ```
     
 3.  **Abre el archivo `index.html` en tu navegador web preferido.**
-    
+
 ### Metodología SCRUM
 
 Para la gestión de este proyecto, utilizamos la metodología ágil SCRUM, organizando nuestro trabajo en Sprints y gestionando las tareas en un tablero de proyecto.
