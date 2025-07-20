@@ -39,7 +39,7 @@ El objetivo es proporcionar una herramienta didáctica que permita a cualquier p
 Aquí puedes ver cómo luce nuestra aplicación.
 
 
-[**Click AQUÍ**](https://example/)
+[**Click AQUÍ**](https://juanpadcs.github.io/web-kingdom/)
 
 ### 🎨 Diseño y Prototipado (Figma)
 
@@ -101,7 +101,12 @@ Para la gestión de este proyecto, utilizamos la metodología ágil SCRUM, organ
 
 En el siguiente video, presentamos al equipo, explicamos el contenido teórico y demostramos el funcionamiento de nuestra aplicación.
 
-▶️ [**Ver Video en YouTube**](https://www.google.com/search?q=%5BAQU%C3%8D_EL_ENLACE_A_TU_VIDEO%5D "null")
+▶️ [**Ver Video en YouTube**](https://youtu.be/ONP487i4vg0"null")
+
+### Aqui puedes ver Nuestra Documentación 
+
+[**Ver DOCUMENTO**](https://drive.google.com/file/d/1hKIigg26kKW5ITW_aKg4P3Vfcrh5Cxtx/view?usp=drive_link
+"null")
 
 ### 🧑‍💻 Equipo de Desarrollo
 
@@ -111,4 +116,4 @@ En el siguiente video, presentamos al equipo, explicamos el contenido teórico y
 | Yhwrr Suárez | Product Owner | 
 | Juan Pablo Cifuentes | SCRUM Master -Programador | 
 | Anylorena Torres | Diseñadora | 
-| Alexis Blanco - Anylorena Torres | Programador | 
+| Alexis Blanco | Programador | 
