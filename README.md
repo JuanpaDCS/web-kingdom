@@ -105,7 +105,8 @@ En el siguiente video, presentamos al equipo, explicamos el contenido teórico y
 
 ### Aqui puedes ver Nuestra Documentación 
 
-[**Ver DOCUMENTO**](https://drive.google.com/file/d/1hKIigg26kKW5ITW_aKg4P3Vfcrh5Cxtx/view?usp=drive_link"null")
+[**Ver DOCUMENTO**](https://drive.google.com/file/d/1hKIigg26kKW5ITW_aKg4P3Vfcrh5Cxtx/view?usp=drive_link
+"null")
 
 ### 🧑‍💻 Equipo de Desarrollo
 
